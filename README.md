@@ -1,5 +1,5 @@
 ### Hi there 👋 whats up guys how youre doing
-
+Starknet the best layer 2, who agrees?
 <!--
 **Patryk825/Patryk825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
